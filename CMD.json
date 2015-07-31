@@ -1,0 +1,1 @@
+{"CMDItem":[{"CMDType":1,"CMDINDEX":1,"Argument":[1],"ReadFileName":"Test1.json"},{"CMDType":2,"CMDINDEX":1,"Argument":[0,100],"ReadFileName":"Test2.json"},{"CMDType":3,"CMDINDEX":0,"Argument":[100,1000,"wPattern1.txt"],"ReadFileName":"Test3.json"},{"CMDType":3,"CMDINDEX":1,"Argument":[100,1000,"rPattern1.txt"],"ReadFileName":"Test4.json"}]}
